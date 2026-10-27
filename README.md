@@ -213,12 +213,6 @@ Ensure the frontend is configured with the correct backend API endpoint.
 
 ---
 
-## Demo
-
-A release APK was generated and installed on a physical Android device to demonstrate the full scan-to-verdict workflow using real product labels.
-
----
-
 ## Conclusion
 
 Ingredient AI Copilot demonstrates how AI can function as a true co-pilot—interpreting complex ingredient information, reducing cognitive effort, and enabling better decisions at the moment they matter most.
