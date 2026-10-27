@@ -51,31 +51,6 @@ No filters, forms, or configuration steps are required.
 
 ---
 
-## Screenshots
-
-### Home Screen and Ingredient Capture
-
-<p align="center">
-  <img src="screenshots/home.jpeg" style="width:42%; max-width:280px; height:auto; display:inline-block; margin:6px;" alt="Home Screen" />
-  <img src="screenshots/capture.jpeg" style="width:42%; max-width:280px; height:auto; display:inline-block; margin:6px;" alt="Ingredient Capture" />
-</p>
-
-<p align="center"><em>Camera-first entry point and ingredient label capture workflow.</em></p>
-
----
-
-### AI Analysis and Explainability
-
-<p align="center">
-  <img src="screenshots/result.jpeg" style="width:42%; max-width:280px; height:auto; display:inline-block; margin:6px;" alt="AI Analysis Result" />
-  <img src="screenshots/explainability.jpeg" style="width:42%; max-width:280px; height:auto; display:inline-block; margin:6px;" alt="Explainability and Trade-offs" />
-</p>
-
-<p align="center"><em>Structured verdict, suitability guidance, and clear explanation of trade-offs.</em></p>
-
-
----
-
 ## System Architecture
 
 At a high level, the system follows the pipeline below:
@@ -210,12 +185,6 @@ npx expo start
 ```
 
 Ensure the frontend is configured with the correct backend API endpoint.
-
----
-
-## Demo
-
-A release APK was generated and installed on a physical Android device to demonstrate the full scan-to-verdict workflow using real product labels.
 
 ---
 
