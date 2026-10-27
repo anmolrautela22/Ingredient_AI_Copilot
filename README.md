@@ -2,19 +2,17 @@
 
 Ingredient AI Copilot is a camera-first mobile application that helps users interpret food ingredient lists at the moment of decision. The system uses artificial intelligence as a reasoning co-pilot, transforming complex nutritional information into concise, explainable insights with minimal user interaction.
 
-The project was developed as part of a hackathon focused on AI-native interaction, where AI acts as the primary interface rather than a supporting feature.
+## Technology
 
----
+React Native, Expo, Node.js, Express.js, and Groq’s vision API.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-Framework-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-Multimodal%20LLM-FF4F00?style=for-the-badge" />
-</p>
+## Live Demo
 
+Try **Ingredient AI Copilot** on the web: [Open the app](https://ingredientaicopilot-frontend-jcdo.vercel.app)
 
+Upload a clear photo of a packaged beverage label to see an AI-generated ingredient analysis, including sugar information, key considerations, and a confidence score.
+
+> AI-generated results may be inaccurate. Check the product packaging for authoritative ingredient and nutrition information.
 ---
 
 ## Overview
