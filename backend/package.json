@@ -1,0 +1,28 @@
+{
+  "name": "ingredient_ai_copilot",
+  "version": "1.0.0",
+  "description": "A camera-first mobile application that uses an LLM as a reasoning engine to help users understand food ingredients at the moment of decision.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodingmage/Ingredient_AI_Copilot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thecodingmage/Ingredient_AI_Copilot/issues"
+  },
+  "homepage": "https://github.com/thecodingmage/Ingredient_AI_Copilot#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "openai": "^6.15.0",
+    "zod": "^4.3.4"
+  }
+}
