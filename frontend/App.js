@@ -442,13 +442,7 @@ const styles = StyleSheet.create({
   },
 });
 
-const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: '#000' },
-  contentContainer: { flex: 1 },
-  bgImageStyle: { 
-    opacity: 0.6, 
-    resizeMode: 'cover' 
-  },
+
   mainOverlay: { flex: 1, backgroundColor: 'rgba(0, 0, 0, 0.3)' },
   hero: { flex: 1, justifyContent: 'center', alignItems: 'center', padding: 40 },
   logoWrapper: { width: 140, height: 140, marginBottom: 20 },
