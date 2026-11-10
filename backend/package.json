@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thecodingmage/Ingredient_AI_Copilot.git"
+    "url": "git+https://github.com/anmolrautela22/Ingredient_AI_Copilot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/thecodingmage/Ingredient_AI_Copilot/issues"
+    "url": "https://github.com/anmolrautela22/Ingredient_AI_Copilot/issues"
   },
-  "homepage": "https://github.com/thecodingmage/Ingredient_AI_Copilot#readme",
+  "homepage": "https://github.com/anmolrautela22/Ingredient_AI_Copilot/blob/main/README.md",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
