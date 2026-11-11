@@ -151,7 +151,7 @@ export default function App() {
           <View style={styles.hero}>
             <Image source={LOGO_IMAGE} style={styles.logo} resizeMode="contain" />
 
-            <Text style={[styles.title, { color: theme.text }]}>NutriScan</Text>
+            <Text style={[styles.title, { color: theme.text }]}>IngredientCopilot</Text>
             <Text style={[styles.subtitle, { color: theme.muted }]}>
               Insightful ingredient analysis at your fingertips.
             </Text>
